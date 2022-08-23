@@ -46,4 +46,4 @@ Options:
 
 ## Credits
 
-This library uses the fcl-kms-authorizer from @doublejumptokyo https://github.com/doublejumptokyo/fcl-kms-authorizer
+This library uses the fcl-kms-authorizer from @doublejumptokyo (https://github.com/doublejumptokyo/fcl-kms-authorizer)
