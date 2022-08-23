@@ -1,0 +1,11 @@
+{
+    "account": "0x1dc3423b06f38a25",
+    "network": {
+        "apiUrl": "https://access-testnet.onflow.org"
+    },
+    "key": {
+        "region": "eu-central-1",
+        "id": "123213-230d-421f8-123d-323131231",
+        "index": 0
+    }
+}
