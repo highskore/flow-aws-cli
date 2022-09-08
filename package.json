@@ -7,7 +7,7 @@
     "start": "nodemon --watch 'src/**/*.ts' --exec 'tsx' src/index.ts",
     "start:windows": "nodemon --watch 'src/**/*.ts' --exec \"npx tsx\" src/index.ts",
     "create": "npm run build && npm run test",
-    "install-fac": "npm run build && sudo npm i -g",
+    "install-fac": "npm i && npm run build && sudo npm i -g",
     "build": "tsc -p .",
     "local": "sudo npm i -g && fac",
     "refresh": "rm -rf ./node_modules ./package-lock.json && npm install",
