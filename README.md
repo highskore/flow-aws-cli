@@ -1,7 +1,7 @@
 # Flow AWS CLI - FAC
 
 This little tool allows you to send Flow transactions authorized by AWS KMS through the CLI,
-at the time of creation of this library, this specific feature is not supported by the official flow-cli (https://github.com/onflow/flow-cli)
+at the time of creation of this repo, this specific feature is not supported by the official flow-cli (https://github.com/onflow/flow-cli)
 
 ## Installation
 
